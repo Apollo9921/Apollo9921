@@ -35,11 +35,38 @@ Currently working with:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Apollo9921&layout=compact)
 
-## 🚀 Projects
+# Quiz App
 
-| Project | Description |
-|----------|------------|
-| Quiz App | Multilingual quiz application |
+## 🏗 Architecture
+
+- Presentation (Compose + ViewModel)
+- Domain (Use Cases)
+- Data (Repository + Room + Firestore)
+
+## 🛠 Tech Stack
+
+- Kotlin
+- Jetpack Compose
+- Room
+- Koin
+- Ktor
+- Firebase Firestore
+
+## 📱 Screenshots
+
+<table>
+<tr>
+<td align="center">
+<b>Categories</b><br>
+<img src="1000003072.jpg" width="250">
+</td>
+
+<td align="center">
+<b>Results</b><br>
+<img src="1000003073.jpg" width="250">
+</td>
+</tr>
+</table>
 
 ## 📫 Contact
 
