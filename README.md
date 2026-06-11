@@ -4,17 +4,13 @@ Android Developer | Kotlin | Clean Architecture
 
 ## 👨‍💻 About Me
 
-Android developer passionate about building scalable and maintainable applications.
+Android Developer with 3+ years of professional experience building native Android applications using Kotlin and Jetpack Compose.
 
-Currently working with:
+I have worked on production apps across different domains, including banking sector, where stability, quality and responsibility are critical.
 
-- Kotlin
-- Jetpack Compose
-- MVVM
-- Room
-- Koin
-- Ktor
-- Firebase
+I have a strong interest in software architecture, testing and delivery quality, applying principles such as Clean Architecture and MVVM in both professional and personal projects.
+
+Part of my technical growth has come from hands-on personal projects, where I explored topics like modern UI with Compose, CI/CD pipelines, testing strategies and codebase modernization — experience that I actively apply in real production environments.
 
 ---
 
@@ -35,23 +31,25 @@ Currently working with:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Apollo9921&layout=compact)
 
-# Quiz App
+## Quiz App
 
-## 🏗 Architecture
-
-- Presentation (Compose + ViewModel)
-- Domain (Use Cases)
-- Data (Repository + Room + Firestore)
-
-## 🛠 Tech Stack
+Multilingual quiz application built with:
 
 - Kotlin
 - Jetpack Compose
 - Room
-- Koin
-- Ktor
 - Firebase Firestore
+- Clean Architecture
+- MVVM
 
+## Features
+
+- Multiple quiz categories
+- Offline support with Room
+- User progress tracking
+- Statistics and results
+- Multi-language support
+  
 ## 📱 Screenshots
 
 <table>
