@@ -1,16 +1,47 @@
-## Hi there 👋
+# Nuno Silva
 
-<!--
-**Apollo9921/Apollo9921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android Developer | Kotlin | Clean Architecture
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Android developer passionate about building scalable and maintainable applications.
+
+Currently working with:
+
+- Kotlin
+- Jetpack Compose
+- MVVM
+- Room
+- Koin
+- Ktor
+- Firebase
+
+---
+
+## 🛠 Tech Stack
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Room](https://img.shields.io/badge/Room-4285F4?style=for-the-badge)
+![Koin](https://img.shields.io/badge/Koin-5D87BF?style=for-the-badge)
+![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Apollo9921&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Apollo9921&layout=compact)
+
+## 🚀 Projects
+
+| Project | Description |
+|----------|------------|
+| Quiz App | Multilingual quiz application |
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/nuno-silva-b060851b3/
+- Email: nunosilvaw33d@gmail.com
