@@ -1,6 +1,6 @@
 # Nuno Silva
 
-Android Developer | Kotlin | Clean Architecture
+Android Developer | Kotlin | Clean Architecture | Jetpack Compose
 
 ## 👨‍💻 About Me
 
