@@ -25,12 +25,6 @@ Part of my technical growth has come from hands-on personal projects, where I ex
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Apollo9921&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Apollo9921&layout=compact)
-
 ## Quiz App
 
 Multilingual quiz application built with:
@@ -55,13 +49,19 @@ Multilingual quiz application built with:
 <table>
 <tr>
 <td align="center">
+<b>Quiz</b><br>
+<img src="quiz.png" width="250">
+</td>
+  
+</tr> 
+<td align="center">
 <b>Categories</b><br>
-<img src="1000003072.jpg" width="250">
+<img src="categories.png" width="250">
 </td>
 
 <td align="center">
 <b>Results</b><br>
-<img src="1000003073.jpg" width="250">
+<img src="results.png" width="250">
 </td>
 </tr>
 </table>
